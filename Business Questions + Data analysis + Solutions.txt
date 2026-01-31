@@ -1,0 +1,33 @@
+1.How much total sales did the business generate?
+
+2.How much sales did each customer make?
+
+3.How many orders does each customer place?
+
+4.Which product categories generate the most sales?
+
+5.What is the average order value?
+
+Solutions -
+
+solution 1: 
+          SELECT SUM(sales_amount)
+          FROM orders;
+
+solution 2:
+          SELECT SUM(sales_amount),customer_id
+          FROM orders
+          GROUP BY customer_id;
+solution 3:
+          SELECT count(order_id),customer_id
+          FROM orders
+          GROUP BY customer_id;
+solution 4:
+          SELECT category, SUM(sales_amount)
+          FROM orders
+          GROUP BY category;
+solution 5:
+           SELECT AVG(sales_amount)
+           FROM orders;
+average order value:209.2796199999997
+ 

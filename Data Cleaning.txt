@@ -1,0 +1,2 @@
+In this phase of the project I checked whether there are any inconsistent,
+incorrect or inappropriate records in both customers and orders table.

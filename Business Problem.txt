@@ -1,0 +1,9 @@
+The business wants to understand customer purchasing behavior and sales performance in order to:
+
+1.Identify high-value customers
+
+2.Understand which categories drive revenue
+
+3.Improve sales and marketing decisions
+
+ 

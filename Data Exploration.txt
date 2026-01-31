@@ -1,0 +1,6 @@
+In this phase I have performed the following steps:-
+
+1.Check record counts.
+2.View sample data.
+3.Check for NULLs (critical)
+4.Understand data ranges.

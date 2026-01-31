@@ -1,0 +1,7 @@
+1. Depending on the sales made by each customer we can recommend similar
+kind of products to those customers in order to increase the sales and 
+thereby increasing the profits of the company.
+
+2. As sales is depending on the product categories, so to optimize the sales
+we can optimize the products of the product categeories in order to optimize 
+the profits of the company.
